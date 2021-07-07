@@ -1,8 +1,8 @@
 ---
 title: "Recipe Capsule"
 date: 2021-07-06T10:32:58+01:00
-draft: true
+draft: false
 ---
 
 # A Collection of Recipes
-*easy and tasty* 
+*Tasty and Easy* 
