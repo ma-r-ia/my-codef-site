@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "RECIPES"
+baseURL = "https://epic-jackson-a24c4e.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
