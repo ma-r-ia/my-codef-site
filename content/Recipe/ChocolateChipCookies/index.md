@@ -3,7 +3,11 @@ title: "Chocolate Chip Cookies"
 date: 2021-07-07T16:11:00+01:00
 draft: false
 ---
-*Ingredients:*
+
+![cookies](/images/cookies.jpg)
+
+
+# Ingredients:
 
 - 150g salted butter (softened)
 
@@ -23,7 +27,9 @@ draft: false
 
 - 200g plain chocolate chips
 
-*Instructions: *
+
+
+# Instructions:
 
 1. Heat oven to 190C, grease two baking trays.
 

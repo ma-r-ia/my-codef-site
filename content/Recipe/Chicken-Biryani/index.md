@@ -4,9 +4,12 @@ date: 2021-07-07T15:55:35+01:00
 draft: false
 ---
 
-*Ingredients:*
+![biryani](/images/biryani.jpg)
 
-300gms basmati rice 
+
+# Ingredients:
+
+300gms basmati rice (prepare aside)
  
 Chicken Marinade 
 
@@ -46,7 +49,7 @@ To garnish;
 
 - Mint leaves chopped
 
-*Instructions:*
+# Instructions:
 
 1. Marinate chicken in yogurt, turmeric, chilli powder and salt in fridge.
 
