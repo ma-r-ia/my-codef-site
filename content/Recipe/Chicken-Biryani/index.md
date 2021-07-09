@@ -6,8 +6,9 @@ draft: false
 
 ![biryani](/images/biryani.jpg)
 
+<h1 style="border:green; border-width:3px; border-style:solid; display:inline; padding: 10px 120px;font-size: 40px">
+Ingredients:</h1>
 
-# Ingredients:
 
 300gms basmati rice (prepare aside)
  
@@ -49,7 +50,8 @@ To garnish;
 
 - Mint leaves chopped
 
-# Instructions:
+<h1 style="border:green; border-width:3px; border-style:solid; display:inline; padding: 10px 120px;font-size: 40px">
+Instructions:</h1>
 
 1. Marinate chicken in yogurt, turmeric, chilli powder and salt in fridge.
 

@@ -6,8 +6,9 @@ draft: false
 
 ![cookies](/images/cookies.jpg)
 
+<h1 style="border:green; border-width:3px; border-style:solid; display:inline; padding: 10px 120px;font-size: 40px">
+Ingredients:</h1>
 
-# Ingredients:
 
 - 150g salted butter (softened)
 
@@ -28,8 +29,8 @@ draft: false
 - 200g plain chocolate chips
 
 
-
-# Instructions:
+<h1 style="border:green; border-width:3px; border-style:solid; display:inline; padding: 10px 120px;font-size: 40px">
+Instructions:</h1>
 
 1. Heat oven to 190C, grease two baking trays.
 

@@ -6,7 +6,9 @@ draft: false
 
 ![newprawn](/images/newprawn.jpg)
 
-# Ingredients:
+<h1 style="border:green; border-width:3px; border-style:solid; display:inline; padding: 10px 120px;font-size: 40px">
+Ingredients:</h1>
+
 
 125g dried pasta,preferably spaghetti or linguine
 
@@ -22,7 +24,9 @@ sea salt, freshly ground black pepper
 
 lemon wedges, (optional)
 
-# Instructions:
+<h1 style="border:green; border-width:3px; border-style:solid; display:inline; padding: 10px 120px;font-size: 40px">
+Instructions:</h1>
+
 
 1. Half-fill saucepan with water and bring to boil. Add linguine to the boiling water, cooking for 8 minutes and stirring occasionally. Drain the pasta.
 
